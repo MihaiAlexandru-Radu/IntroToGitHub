@@ -3,7 +3,7 @@ Version Control essentially tracks changes to files. Different Branches have dif
 
 ## Installation Instructions
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![SSH Key](https://www.keycdn.com/img/support/create-ssh-key.png)
 
 ## Usage 
 
