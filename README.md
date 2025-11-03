@@ -5,6 +5,8 @@ Version Control essentially tracks changes to files. Different Branches have dif
 
 ![SSH Key](https://www.keycdn.com/img/support/create-ssh-key.png)
 
+One of the best ways to use this repository is to simply clone it using a SSH key. You should be able to clone it in most terminals in this way by accessing the SSH link from the front page.
+
 ## Usage 
 
 There isn't really any specific *usage* for this GitHub. I think that the **most** important thing is just to add things that you find cool. This can mean:
