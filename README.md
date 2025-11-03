@@ -3,6 +3,8 @@ Version Control essentially tracks changes to files. Different Branches have dif
 
 ## Installation Instructions
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 ## Usage 
 
 There isn't really any specific *usage* for this GitHub. I think that the **most** important thing is just to add things that you find cool. This can mean:
